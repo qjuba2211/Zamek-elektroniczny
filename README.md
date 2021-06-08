@@ -10,11 +10,11 @@ Jakub Mazurczyk
         3.Cel i zakres projektu
 Niniejszy projekt jest studenckim przedsięwzięciem, które na celu ma stworzenie projektu zamkaelektronicznego z wielopoziomową kontrolą dostępu. Naszym celem, jest połączeniem elektroniki orazprogramowania za pomocą programu ArduinoIDE. Zamek w swoim założeniu posiada trójstopniowąkotrolę, w której skład wchodzą:
 
-a)Pomiar temperatury ciała.
+a) pomiar temperatury ciała.
 
-b)Odczyt breloka.
+b) odczyt breloka.
         
-c)Wpisanie poprawnego kodu.
+c) wpisanie poprawnego kodu.
 
         4.Opis rozwiązania technicznego
 Celem projektu było zaprojektowanie, zmontowanie i zaprogramowanie układu zamka elektronicz-nego z wielopoziomową kontrolą dostępu.
