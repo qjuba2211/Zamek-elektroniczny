@@ -14,7 +14,7 @@ a)Pomiar temperatury ciała.
 
 b)Odczyt breloka.
         
-c.Wpisanie poprawnego kodu.
+c)Wpisanie poprawnego kodu.
 
         4.Opis rozwiązania technicznego
 Celem projektu było zaprojektowanie, zmontowanie i zaprogramowanie układu zamka elektronicz-nego z wielopoziomową kontrolą dostępu.
