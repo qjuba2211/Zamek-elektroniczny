@@ -30,3 +30,6 @@ Potencjalny  użytkownik,  który  chce  otworzyć  zamek,  w  pierwszej  kolejn
 Drugą blokadą jest odczyt poprawnego breloka lub karty magnetycznej. Podobnie jak w przypadkupierwszej blokady, użytkownik zostanie poinformowany o stanie powodzenia operacji. W przypadkuniepowodzenia program wraca do początku działania. W przypadku zgodności breloka dostajemy siędo ostatniej, trzeciej blokady, którą jest podanie 4 cyfrowego kodu.
 
 Gdy zostanie wpisany poprawny kod użytkownik dostaje odpowiednią informację, oraz komunikat ootwarciu drzwi. Uruchamia się również 5 sekundowy stoper odliczający pozostały czas otwarcia zamka.Serwomechnizm zmienia swoją pozycję o 90 stopni na 5 sekund co symuluje otwarcie się zamka. Poupływie 5 sekud zamek się zamyka a program zaczyna swoją pracę od początku, tak by móc zostaćobsłużony przez następnego użytkownika.
+
+        5.Demonstracja gotowego projektu.
+https://www.youtube.com/watch?v=zHujV_-ubi0&ab_channel=MartynaK%C5%82osek
