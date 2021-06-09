@@ -33,3 +33,6 @@ Gdy zostanie wpisany poprawny kod użytkownik dostaje odpowiednią informację, 
 
         5.Demonstracja gotowego projektu.
 https://www.youtube.com/watch?v=zHujV_-ubi0&ab_channel=MartynaK%C5%82osek
+
+        6.Link do całego kodu
+https://github.com/qjuba2211/Zamek-elektroniczny/blob/main/Projekt_Zamka.ino
